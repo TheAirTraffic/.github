@@ -19,7 +19,8 @@
   <a href="https://theairtraffic.com/feeder-map">Feeder Map</a> ·
   <a href="https://theairtraffic.com/sync">MLAT Sync</a> ·
   <a href="https://theairtraffic.com/stats">Stats</a> ·
-  <a href="https://grndcntrl.net/discord">Discord</a>
+  <a href="https://grndcntrl.net/discord">Discord</a> ·
+  <a href="https://www.reddit.com/r/TheAirTraffic/">Reddit</a>
 </p>
 
 ---
@@ -50,6 +51,13 @@ New to this, or don't have a receiver yet? Start with the [how to feed](https://
 | [Feeder Map](https://theairtraffic.com/feeder-map) | Where the network's receivers are |
 | [MLAT Sync Stats](https://theairtraffic.com/sync) | Which receivers yours is synchronised with |
 | [Stats](https://theairtraffic.com/stats) | Network-wide coverage and totals |
+
+### Community
+
+Questions, feedback, or help getting a receiver going:
+
+- [Discord](https://grndcntrl.net/discord)
+- [r/TheAirTraffic](https://www.reddit.com/r/TheAirTraffic/)
 
 ### More aircraft than ADS-B alone
 
