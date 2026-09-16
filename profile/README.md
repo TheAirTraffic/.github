@@ -13,10 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://theairtraffic.com">Live map</a> ·
-  <a href="https://theairtraffic.com/feeder-map">Feeders</a> ·
+  <a href="https://globe.theairtraffic.com">Live Map</a> ·
+  <a href="https://theairtraffic.com/how-to-feed">How To Feed</a> ·
+  <a href="https://theairtraffic.com/myip">Feeder Status</a> ·
+  <a href="https://theairtraffic.com/feeder-map">Feeder Map</a> ·
+  <a href="https://theairtraffic.com/sync">MLAT Sync</a> ·
   <a href="https://theairtraffic.com/stats">Stats</a> ·
-  <a href="https://theairtraffic.com/how-to-feed">Start feeding</a>
+  <a href="https://grndcntrl.net/discord">Discord</a>
 </p>
 
 ---
@@ -39,8 +42,15 @@ New to this, or don't have a receiver yet? Start with the [how to feed](https://
 | **[tat-feeder](https://github.com/TheAirTraffic/tat-feeder)** | Install and update scripts for feeding from an existing receiver |
 | **[mlat-client](https://github.com/TheAirTraffic/mlat-client)** | Multilateration client, for locating aircraft that broadcast no position |
 
+### Once you're feeding
+
+| | |
+|---|---|
+| [Feeder Status](https://theairtraffic.com/myip) | Confirm your receiver is getting through |
+| [Feeder Map](https://theairtraffic.com/feeder-map) | Where the network's receivers are |
+| [MLAT Sync Stats](https://theairtraffic.com/sync) | Which receivers yours is synchronised with |
+| [Stats](https://theairtraffic.com/stats) | Network-wide coverage and totals |
+
 ### More aircraft than ADS-B alone
 
 Many aircraft transmit Mode S without a position. With timing data from several receivers at once, multilateration works out where they are — so the more people feeding, the more the whole network sees.
-
-Check your own feed status any time at [theairtraffic.com/myip](https://theairtraffic.com/myip).
